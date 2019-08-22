@@ -6,4 +6,4 @@
 
 ## 用法：
 1. ./chat_server
-   ./chat_client 127.0.0.1
+2. ./chat_client 127.0.0.1
